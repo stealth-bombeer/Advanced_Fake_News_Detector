@@ -1,0 +1,65 @@
+export const twitterUserData = [
+  {
+    name: "Kaushik7894",
+    views_posted: "8.2k",
+    retweets: "1.8k",
+    comments: "0.8k",
+    fake_news: "72.3%",
+  },
+  {
+    name: "DavdBurnett",
+    views_posted: "4.1k",
+    retweets: "1.3k",
+    comments: "0.8k",
+    fake_news: "61.4%",
+  },
+  {
+    name: "Tanishq_Kapoor",
+    views_posted: "5.3k",
+    retweets: "4.5k",
+    comments: "1k",
+    fake_news: "61.1%",
+  },
+  {
+    name: "Rajat_Kpadiya",
+    views_posted: "10.1k",
+    retweets: "2.5k",
+    comments: "1.6k",
+    fake_news: "58.4%",
+  },
+  {
+    name: "Yashika792155",
+    views_posted: "7.56k",
+    retweets: "1.3k",
+    comments: "1.36k",
+    fake_news: "58.4%",
+  },
+  {
+    name: "Any_Sen",
+    views_posted: "14.7k",
+    retweets: "5.6k",
+    comments: "4.5k",
+    fake_news: "54.5%",
+  },
+  {
+    name: "158_Rozeeta",
+    views_posted: "9.5k",
+    retweets: "5.6k",
+    comments: "2.6k",
+    fake_news: "31.2%",
+  },
+  {
+    name: "Sakina",
+    views_posted: "15.4k",
+    retweets: "8.9k",
+    comments: "5.6k",
+    fake_news: "25.3%",
+  },
+  {
+    name: "SammeerA",
+    views_posted: "20.5k",
+    retweets: "5.6k",
+    comments: "4.5k",
+    fake_news: "23.2%",
+  }
+];
